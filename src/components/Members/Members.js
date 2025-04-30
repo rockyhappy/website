@@ -1,6 +1,7 @@
 import React, { memo, useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { BsGithub } from "react-icons/bs";
+import { BsInstagram } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import membersData from "../Data/sortedMembers.json";
@@ -206,6 +207,18 @@ const MemberCard = memo(({ member }) => {
           ))}
         </div>
         <div className="social-links">
+        {member.instagram && (
+            <a
+              href={member.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="social-link"
+              aria-label={`${member.name}'s Instagram`}
+              title="Instagram"
+            >
+              <BsInstagram />
+            </a>
+          )}
           {member.github && (
             <a
               href={member.github}
@@ -264,6 +277,7 @@ const YearSection = memo(({ section }) => (
 
 function Members() {
   const yearSections = [
+    {key: "commitment", data: membersData.commitment},
     { key: "fourthYear", data: membersData.fourthYear },
     { key: "thirdYear", data: membersData.thirdYear },
     { key: "secondYear", data: membersData.secondYear }
@@ -272,7 +286,7 @@ function Members() {
   return (
     <Container fluid className="members-section">
       <div className="particle-container">
-        <Particle variant="members" />
+        {/* <Particle variant="members" /> */}
       </div>
       <Container>
         <div className="section-title">

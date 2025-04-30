@@ -14,7 +14,7 @@ function Home2() {
   return (
     <Container fluid className="home-about-section position-relative" id="about">
       <div className="home-about-particle-container">
-        <Particle variant="about" />
+        {/* <Particle variant="about" /> */}
       </div>
       <Container className="home-about-content">
         <Row>

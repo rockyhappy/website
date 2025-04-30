@@ -14,7 +14,7 @@ import icpc3 from "../../Assets/Projects/icpc3.jpg";
 function About() {
   return (
     <Container fluid className="home-section">
-      <Particle />
+      {/* <Particle /> */}
       <Container>
       <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
