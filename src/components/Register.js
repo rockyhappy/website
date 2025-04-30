@@ -226,9 +226,13 @@ function Register() {
         body: JSON.stringify(apiData),
       });
 
-      if (!response.ok) {
-        const errorData = await response.json().catch(() => null);
-        throw new Error(errorData?.message || 'Registration failed');
+      // Parse the response data regardless of status code
+      const responseData = await response.json().catch(() => ({ message: 'Failed to parse response' }));
+      
+      if (response.status !== 201) {
+        // Display the actual response in the error message
+        setFormError(JSON.stringify(responseData, null, 2));
+        throw new Error('Registration failed');
       }
 
       // Success handling
@@ -248,7 +252,10 @@ function Register() {
       window.scrollTo(0, 0);
     } catch (error) {
       console.error('Registration error:', error);
-      setFormError(error.message || 'Registration failed. Please try again.');
+      // Don't override the error message if it was already set above for non-201 status
+      if (!formError) {
+        setFormError(error.message || 'Registration failed. Please try again.');
+      }
     } finally {
       setIsLoading(false);
     }
@@ -288,7 +295,7 @@ function Register() {
               </div>
             ) : (
               <>
-                {formError && <Alert variant="danger">{formError}</Alert>}
+                {formError && <Alert variant="danger"><pre style={{whiteSpace: 'pre-wrap', overflowWrap: 'break-word'}}>{formError}</pre></Alert>}
                 
                 <Form onSubmit={handleSubmit} className="register-form">
                   <Row>
