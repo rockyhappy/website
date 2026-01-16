@@ -2,21 +2,13 @@
   "fourthYear": {
     "title": "4th Year Members",
     "members": [
-
       {
         "name": "Aanya Mittal",
         "image": "aanyaPC.png",
         "branch": "CSE AIML",
         "linkedin": "https://www.linkedin.com/in/aanya-mittal-508059231/?originalSubdomain=in",
         "specialization": "Full Stack Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "Python",
-          "SQL"
-        ]
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"]
       },
       {
         "name": "Aanand Rai",
@@ -24,14 +16,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/aanand-rai-363890260/?originalSubdomain=in",
         "specialization": "Mobile Development",
-        "skills": [
-          "Kotlin",
-          "Swift",
-          "Java",
-          "Dart",
-          "Flutter",
-          "React Native"
-        ]
+        "skills": ["Kotlin", "Swift", "Java", "Dart", "Flutter", "React Native"]
       },
       {
         "name": "Deepak Jain",
@@ -39,14 +24,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/deepak-4-jain/?originalSubdomain=in",
         "specialization": "Backend Development",
-        "skills": [
-          "Python",
-          "Java",
-          "Node.js",
-          "SQL",
-          "MongoDB",
-          "Express"
-        ]
+        "skills": ["Python", "Java", "Node.js", "SQL", "MongoDB", "Express"]
       },
       {
         "name": "Dev Goel",
@@ -54,14 +32,7 @@
         "branch": "IT",
         "linkedin": "https://www.linkedin.com/in/devgoel901/?originalSubdomain=in",
         "specialization": "Cybersecurity",
-        "skills": [
-          "Python",
-          "C++",
-          "Bash",
-          "PowerShell",
-          "SQL",
-          "JavaScript"
-        ]
+        "skills": ["Python", "C++", "Bash", "PowerShell", "SQL", "JavaScript"]
       },
       {
         "name": "Ishita Singhal",
@@ -69,14 +40,7 @@
         "branch": "CSE AIML",
         "linkedin": "",
         "specialization": "Full Stack Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "Python",
-          "SQL"
-        ]
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"]
       },
       {
         "name": "Kapish Upadhyay",
@@ -84,14 +48,7 @@
         "branch": "IT",
         "linkedin": "https://www.linkedin.com/in/kapishupadhyay/?originalSubdomain=in",
         "specialization": "Full Stack Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "Python",
-          "SQL"
-        ],
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"],
         "showBanner": true,
         "bannerText": "ICPC Regionalist"
       },
@@ -101,14 +58,7 @@
         "branch": "CS",
         "linkedin": "https://www.linkedin.com/in/kartikeytandon/?originalSubdomain=in",
         "specialization": "Full Stack Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "Python",
-          "SQL"
-        ]
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"]
       },
       {
         "name": "Keshav Gupta",
@@ -116,14 +66,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/keshav-gupta-847725228/",
         "specialization": "Frontend Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "React",
-          "Vue.js"
-        ]
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Vue.js"]
       },
       {
         "name": "KinjalK Yadav",
@@ -131,14 +74,7 @@
         "branch": "CSE AIML",
         "linkedin": "https://www.linkedin.com/in/kinjalk-yadav-253165243/?trk=public_post_feed-actor-image&original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in",
         "specialization": "Mobile Development",
-        "skills": [
-          "Kotlin",
-          "Swift",
-          "Java",
-          "Dart",
-          "Flutter",
-          "React Native"
-        ]
+        "skills": ["Kotlin", "Swift", "Java", "Dart", "Flutter", "React Native"]
       },
       {
         "name": "Kshitiz Agarwal",
@@ -146,14 +82,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/kshitiz--agarwal/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in",
         "specialization": "Backend Development",
-        "skills": [
-          "Python",
-          "Java",
-          "Node.js",
-          "SQL",
-          "MongoDB",
-          "Express"
-        ],
+        "skills": ["Python", "Java", "Node.js", "SQL", "MongoDB", "Express"],
         "showBanner": true,
         "bannerText": "COORDINATOR"
       },
@@ -178,14 +107,7 @@
         "branch": "AIML",
         "linkedin": "https://www.linkedin.com/in/madhur-goel-mg/recent-activity/all/",
         "specialization": "Backend Development",
-        "skills": [
-          "Python",
-          "Java",
-          "Node.js",
-          "SQL",
-          "MongoDB",
-          "Express"
-        ]
+        "skills": ["Python", "Java", "Node.js", "SQL", "MongoDB", "Express"]
       },
       {
         "name": "Mohd Asjad Raza Ansari",
@@ -193,14 +115,7 @@
         "branch": "CS",
         "linkedin": "https://www.linkedin.com/in/vedasjad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "specialization": "Blockchain Development",
-        "skills": [
-          "Solidity",
-          "JavaScript",
-          "Python",
-          "Go",
-          "Rust",
-          "C++"
-        ]
+        "skills": ["Solidity", "JavaScript", "Python", "Go", "Rust", "C++"]
       },
       {
         "name": "Nikhil Sinha",
@@ -208,14 +123,7 @@
         "branch": "CSIT",
         "linkedin": "https://www.linkedin.com/in/nikhilsinha822/?originalSubdomain=in",
         "specialization": "Frontend Development",
-        "skills": [
-          "JavaScript",
-          "TypeScript",
-          "HTML",
-          "CSS",
-          "React",
-          "Vue.js"
-        ]
+        "skills": ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Vue.js"]
       },
       {
         "name": "Saumya Srivastava",
@@ -238,14 +146,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/rai-shambhavi/?originalSubdomain=in",
         "specialization": "Cybersecurity",
-        "skills": [
-          "Python",
-          "C++",
-          "Bash",
-          "PowerShell",
-          "SQL",
-          "JavaScript"
-        ]
+        "skills": ["Python", "C++", "Bash", "PowerShell", "SQL", "JavaScript"]
       },
       {
         "name": "Shorya",
@@ -270,14 +171,7 @@
         "branch": "IT",
         "linkedin": "https://www.linkedin.com/in/shreyanshmittal1/?originalSubdomain=in",
         "specialization": "Data Science",
-        "skills": [
-          "Python",
-          "R",
-          "SQL",
-          "TensorFlow",
-          "PyTorch",
-          "Pandas"
-        ],
+        "skills": ["Python", "R", "SQL", "TensorFlow", "PyTorch", "Pandas"],
         "showBanner": true,
         "bannerText": "ICPC Regionalist"
       },
@@ -317,14 +211,7 @@
         "branch": "CSE",
         "linkedin": "https://www.linkedin.com/in/tushar-chauhan4/?originalSubdomain=in",
         "specialization": "Mobile Development",
-        "skills": [
-          "Kotlin",
-          "Swift",
-          "Java",
-          "Dart",
-          "Flutter",
-          "React Native"
-        ]
+        "skills": ["Kotlin", "Swift", "Java", "Dart", "Flutter", "React Native"]
       },
       {
         "name": "Utkarsh Shukla",
@@ -353,7 +240,7 @@
         "image": "Aakarsh Singh.jpeg",
         "branch": "Electronics and Communication Engineering",
         "specialization": "Spring Boot Development",
-        "skills": [ "Java", "C++", "JDK"],
+        "skills": ["Java", "C++", "JDK"],
         "linkedin": "https://www.linkedin.com/in/aakarsh09z/",
         "showBanner": true,
         "bannerText": "ICPC Regionalist"
@@ -371,7 +258,7 @@
         "image": "Akhil.jpg",
         "branch": "Computer Science and Engineering",
         "specialization": "Backend Development",
-        "skills": [ "Node.js", "SQL", "Ruby", "CS Fundamentals"],
+        "skills": ["Node.js", "SQL", "Ruby", "CS Fundamentals"],
         "github": "https://github.com/swastik-akhil",
         "linkedin": "https://www.linkedin.com/in/akhil-agrawal-soccer/",
         "email": "akhilmindset@gmail.com"
@@ -389,14 +276,14 @@
         "image": "AnasPC.png",
         "branch": "Computer Science and Engineering",
         "specialization": "Cyber Security Expert",
-        "skills": [ "Python", "C++", "Cyber Security"],
+        "skills": ["Python", "C++", "Cyber Security"],
         "linkedin": "https://www.linkedin.com/in/anas-khan-094b92290/",
         "showBanner": true,
         "bannerText": "SIH Winner"
       },
       {
         "name": "Apoorva Vaishya",
-        "image": "Apoorva.jpeg", 
+        "image": "Apoorva.jpeg",
         "branch": "CS",
         "specialization": "Backend developer",
         "skills": ["Nodejs", "React js"],
@@ -407,7 +294,7 @@
         "image": "AyushAgrawalPC.jpg",
         "branch": "Computer Science and Engineering",
         "specialization": "Competitive Programming",
-        "skills": [ "Javascript", "C++", "Python"],
+        "skills": ["Javascript", "C++", "Python"],
         "linkedin": "https://www.linkedin.com/in/ayush-agrawal-2a3654266/",
         "showBanner": true,
         "bannerText": "ICPC Regionalist"
@@ -433,7 +320,7 @@
         "image": "Lakshay.jpg",
         "branch": "Computer Science and Engineering",
         "specialization": "Python and IOS Development",
-        "skills": [ "Javascript", "C++", "Python", "Flutter", "Dart", "Swift"],
+        "skills": ["Javascript", "C++", "Python", "Flutter", "Dart", "Swift"],
         "linkedin": "https://www.linkedin.com/in/ilakshaygupt/",
         "showBanner": true,
         "bannerText": "SIH Winner"
@@ -443,7 +330,7 @@
         "image": "Lakshya Goel.jpeg",
         "branch": "Computer Science and Engineering",
         "specialization": "Flutter Development",
-        "skills": [ "Node.js", "C++", "Flutter", "Dart"],
+        "skills": ["Node.js", "C++", "Flutter", "Dart"],
         "linkedin": "https://www.linkedin.com/in/lakshya-1-goel/"
       },
       {
@@ -477,7 +364,7 @@
         "image": "Paras.jpg",
         "branch": "Computer Science and Engineering",
         "specialization": "Competitive Programming and Flutter Development",
-        "skills": [ "Javascript", "C++", "Python", "Flutter", "Dart"],
+        "skills": ["Javascript", "C++", "Python", "Flutter", "Dart"],
         "linkedin": "https://www.linkedin.com/in/pudv95/",
         "showBanner": true,
         "bannerText": "ICPC Regionalist"
@@ -554,148 +441,327 @@
         "image": "AchalPC.jpg",
         "branch": "CS",
         "specialization": "Android Development",
-        "skills": [ "Java", "Kotlin", "SpringBoot","Android"],
+        "skills": ["Java", "Kotlin", "SpringBoot", "Android"],
         "linkedin": "https://www.linkedin.com/in/ayush-agrawal-2a3654266/",
         "github": "https://github.com/AchalVishnoi"
-        
       },
       {
         "name": "Akagra Jain",
         "image": "AkagraPC.jpg",
         "branch": "CS",
         "specialization": "Frontend Development",
-        "skills": [ "Javascript","ReactJS", "C++"],
+        "skills": ["Javascript", "ReactJS", "C++"],
         "linkedin": "https://www.linkedin.com/in/akagra-jain09",
         "github": "https://github.com/akagrajain09"
-        
       },
       {
         "name": "Anchal Singh",
         "image": "AnchalPC.jpg",
         "branch": "CSE",
         "specialization": "Competitive Programming",
-        "skills": [ "Java"],
+        "skills": ["Java"],
         "linkedin": "https://www.linkedin.com/in/anchal-singh-42b70a306"
-        
       },
       {
         "name": "Anubhav Hajela",
         "image": "AnubhavPC.jpg",
         "branch": "CSE",
         "specialization": "Spring development",
-        "skills": [ "Java", "C++"],
+        "skills": ["Java", "C++"],
         "linkedin": "https://www.linkedin.com/in/anubhav-hajela-77b093298/",
         "github": "https://github.com/anubhavhajela4"
-        
       },
       {
         "name": "Arth Kamboj",
         "image": "Arth Kamboj.jpeg",
         "branch": "CSE",
         "specialization": "Spring development",
-        "skills": [ "Java", "C++", "Javascript","SQL"],
+        "skills": ["Java", "C++", "Javascript", "SQL"],
         "linkedin": "https://www.linkedin.com/in/arth-kamboj-5ab45a331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "github": "https://github.com/ArthKamboj"
-        
       },
       {
         "name": "Ayush Kumar Agarwal",
         "image": "Ayush2PC.jpg",
         "branch": "CSE",
         "specialization": "Frontend Development",
-        "skills": [ "Javascript","ReactJS", "C++"],
+        "skills": ["Javascript", "ReactJS", "C++"],
         "linkedin": "https://www.linkedin.com/in/ayush-kumar-agrawal-376440303/",
         "github": "https://github.com/AyushAgrawal18"
-        
       },
       {
         "name": "Harsh Kumar Arya",
         "image": "HarshPC.jpg",
         "branch": "CSE DS",
         "specialization": "Frontend Development",
-        "skills": [ "Javascript", "C++"],
+        "skills": ["Javascript", "C++"],
         "linkedin": "https://www.linkedin.com/in/harsh-arya-4ba04835a/"
-        
       },
       {
         "name": "Meet Goyal",
         "image": "MeetPC.jpg",
         "branch": "CS",
         "specialization": "Competitive Programming",
-        "skills": [ "Java"],
+        "skills": ["Java"],
         "linkedin": "http://www.linkedin.com/in/meet-goyal-a2b49a318"
-        
       },
       {
         "name": "Rachit Daksh",
         "image": "rachit2PC..jpg",
         "branch": "CSE AIML",
         "specialization": "App Development",
-        "skills": [ "Javascript", "C++", "Dart"],
+        "skills": ["Javascript", "C++", "Dart"],
         "linkedin": "https://www.linkedin.com/in/rachit-daksh-973375328/",
         "github": "https://github.com/dauntlessdaksh"
-        
       },
       {
         "name": "Ritik Tayal",
         "image": "RitikPC.jpg",
         "branch": "CSE AIML",
         "specialization": "Python Development",
-        "skills": [ "C++", "Python"],
+        "skills": ["C++", "Python"],
         "linkedin": "https://linkedin.com/in/ritiktayal18",
         "github": "https://github.com/Ritik-Tayal"
-        
       },
       {
         "name": "Sachi Jain",
         "image": "SachiPC.jpg",
         "branch": "AIML",
         "specialization": "Python Development",
-        "skills": [ "Javascript", "C++", "Python"],
+        "skills": ["Javascript", "C++", "Python"],
         "linkedin": "https://www.linkedin.com/in/sachi-0abjain",
         "github": "https://github.com/Skyiesac"
-        
       },
       {
         "name": "Shreyaa Katiyar",
         "image": "ShreyaaPC.jpg",
         "branch": "CSE AIML",
         "specialization": "UI/UX designing",
-        "skills": [ "Javascript", "C++"],
+        "skills": ["Javascript", "C++"],
         "linkedin": "https://www.linkedin.com/in/shreyaakatiyar",
         "github": "https://github.com/Shreyaakatiyar"
-        
       },
       {
         "name": "Shweta Kumari",
         "image": "ShwetaPC.jpg",
         "branch": "CS-IT",
         "specialization": "Frontend Development",
-        "skills": [ "Javascript", "C++","ReactJS"],
+        "skills": ["Javascript", "C++", "ReactJS"],
         "linkedin": "https://www.linkedin.com/in/shweta-kumari-5bb9772b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-        
       },
       {
         "name": "Siddharth Rai",
         "image": "Siddharth2PC.jpg",
         "branch": "CSE AIML",
         "specialization": "Python Development",
-        "skills": [ "Javascript", "Python"],
+        "skills": ["Javascript", "Python"],
         "linkedin": "https://www.linkedin.com/in/siddharth-rai-80b967283/",
         "github": "https://github.com/Siddharthrai7i"
-        
       },
       {
         "name": "Tanisha Bhatt",
         "image": "TanishaPC.jpg",
         "branch": "CSE",
         "specialization": "Backend Development",
-        "skills": [ "Javascript", "C++", "Node.js"],
+        "skills": ["Javascript", "C++", "Node.js"],
         "linkedin": "https://www.linkedin.com/in/tanisha-bhatt-927315303/",
         "github": "https://github.com/Error404-ai"
-        
       }
-    
+    ]
+  },
+"CurrentSecondYear": {
+    "title": "2ND YEAR MEMBERS",
+    "members": [
+      {
+        "name": "Aditya Chaubey",
+        "specialization": "Competitive Programmer",
+        "branch": "CSIT",
+        "skills": ["CPP", "Java", "Python"],
+        "github": "https://github.com/aditya2411136",
+        "linkedin": "",
+        "email": "adityachoubey2208@gmail.com",
+        "image": "Aditya_ChaubeyPC.jpg"
+      },
+      {
+        "name": "Akash Verma",
+        "specialization": "Full Stack Developer",
+        "branch": "IT",
+        "skills": ["CPP", "Java", "React", "Node.js", "Figma", "Video Editing"],
+        "github": "https://github.com/akashv63060",
+        "linkedin": "https://www.linkedin.com/in/akash-verma-99604b339/",
+        "email": "akashverma936976@gmail.com",
+        "image": "AkashPC.jpeg"
+      },
+      {
+        "name": "Anjali Agarwal",
+        "specialization": "App Developer",
+        "branch": "CSE",
+        "skills": ["Java", "Flutter"],
+        "github": "https://github.com/anjali2410107",
+        "linkedin": "https://www.linkedin.com/in/anjali-agarwal-047515364/",
+        "email": "anjali2410107@akgec.ac.in",
+        "image": "Anjali_AgarwalPC.jpeg"
+      },
+      {
+        "name": "Anshu Gaur",
+        "specialization": "Competitive Programmer",
+        "branch": "CSE",
+        "skills": ["Java"],
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/anshu-gaur-302774332",
+        "email": "anshugaur718@gmail.com",
+        "image": "AnshuGaurPC.png"
+      },
+      {
+        "name": "Aradhy Dev Tiwari",
+        "specialization": "Full Stack Developer",
+        "branch": "CSE (DS)",
+        "skills": ["Java", "DSA", "OOP", "HTML", "CSS", "JavaScript", "Git", "GitHub"],
+        "github": "https://github.com/aradhy2006",
+        "linkedin": "https://www.linkedin.com/in/aradhy-dev-tiwari-392b1832a/",
+        "email": "",
+        "image": "AradhyPC.jpeg"
+      },
+      {
+        "name": "Aviral",
+        "specialization": "Machine Learning Engineer",
+        "branch": "CSE (DS)",
+        "skills": ["CPP", "Video Editing", "Python", "Figma"],
+        "github": "https://github.com/Aviral9740",
+        "linkedin": "https://www.linkedin.com/in/aviral-371453231",
+        "email": "aviralchauhan500@gmail.com",
+        "image": "AviralPC.jpg"
+      },
+      {
+        "name": "Bharat Chauhan",
+        "specialization": "Backend Developer",
+        "branch": "CSE (DS)",
+        "skills": ["Java", "React","Spring Boot"],
+        "github": "https://github.com/chauhanbharat6416-sketch",
+        "linkedin": "https://www.linkedin.com/in/bharat-chauhan-512b81328",
+        "email": "chauhanbharat6416@gmail.com",
+        "image": "Bharat_ChauhanPC.jpg"
+      },
+      {
+        "name": "Iraa Garg",
+        "specialization": "Backend Developer",
+        "branch": "CSE (DS)",
+        "skills": ["C", "CPP", "HTML", "CSS", "JavaScript", "React.js", "Node.js"],
+        "github": "https://github.com/iraagarg",
+        "linkedin": "https://www.linkedin.com/in/iraa-garg-713g/",
+        "email": "iragarg07@gmail.com",
+        "image": "IraaGargPC.jpg"
+      },
+      {
+        "name": "Kanak",
+        "specialization": "Full Stack Developer",
+        "branch": "CSE",
+        "skills": ["Java", "CPP", "Javascript"],
+        "github": "https://github.com/kanak3005",
+        "linkedin": "https://www.linkedin.com/in/kanak-27915531b",
+        "email": "kanak732080@gmail.com",
+        "image": "KanakPC.jpeg"
+      },
+      {
+        "name": "Khushi Goel",
+        "specialization": "Machine Learning Engineer",
+        "branch": "CSE (AIML)",
+        "skills": ["CPP", "Python", "Data Analyst", "DSA"],
+        "github": "https://github.com/khushigoel44-afk",
+        "linkedin": "https://www.linkedin.com/in/khushi-goel-48418832a/",
+        "email": "khushigoel2200@gmail.com",
+        "image": "KhushiGoelPC.jpeg"
+      },
+      {
+        "name": "Krishna Singh Chauhan",
+        "specialization": "Competitive Programmer",
+        "branch": "IT",
+        "skills": ["CPP"],
+        "github": "",
+        "linkedin": "",
+        "email": "",
+        "image": "KrishnaSinghChauhanPC.jpg"
+      },
+      {
+        "name": "Monu Chaudhary",
+        "specialization": "Backend Developer",
+        "branch": "CSE",
+        "skills": ["Java", "CPP", "Spring Boot"],
+        "github": "https://github.com/MonuChaudhary14",
+        "linkedin": "https://www.linkedin.com/in/monu-chaudhary-a95a33330",
+        "email": "monuchaudharypoonia@gmail.com",
+        "image": "MonuChaudharyPC.jpg"
+      },
+      {
+        "name": "Nilenjay Singh Sengar",
+        "specialization": "App Developer",
+        "branch": "CSE",
+        "skills": ["Java", "Flutter", "Django"],
+        "github": "https://github.com/nilenjay",
+        "linkedin": "https://www.linkedin.com/in/nilenjay-sengar-806b30360/",
+        "email": "nilenjaysinghsengar2006@gmail.com",
+        "image": "NilenjaySengerPC.jpeg"
+      },
+      {
+        "name": "Samriddhi Kushwaha",
+        "specialization": "Backend Developer",
+        "branch": "AIML",
+        "skills": ["CPP", "C#", "Python", "Django", "Unity", "Video Editing", "MySQL"],
+        "github": "https://github.com/Sammyverse0",
+        "linkedin": "https://www.linkedin.com/in/samriddhi-kushwaha-6b7841312",
+        "email": "kushwahasamriddhi2705@gmail.com",
+        "image": "SamriddhiKushwahaPC.jpg"
+      },
+      {
+        "name": "Shankaran Prakash",
+        "specialization": "UI/UX Designer",
+        "branch": "ECE",
+        "skills": ["UI/UX Designing", "Graphic Designing", "Python"],
+        "github": "https://github.com/Shankaran-247",
+        "linkedin": "https://www.linkedin.com/in/shankaran-prakash-5b04b4317/",
+        "email": "shankaranprakash247@gmail.com",
+        "image": "ShankaranPrakashPC.jpg"
+      },
+      {
+        "name": "Siddharth Singh",
+        "specialization": "Full Stack Developer",
+        "branch": "CSE (AIML)",
+        "skills": ["CPP", "React", "Node.js", "Express.js"],
+        "github": "https://github.com/Siddharth-singh18",
+        "linkedin": "https://www.linkedin.com/in/siddharth-singh-924005347/",
+        "email": "siddharthsinghnoida2004@gmail.com",
+        "image": "SiddharthSinghPC.png"
+      },
+      {
+        "name": "Somil Jain",
+        "specialization": "Backend Developer",
+        "branch": "CSE",
+        "skills": ["CPP", "Java", "Spring Boot", "Docker", "AWS"],
+        "github": "https://github.com/somiljain2006",
+        "linkedin": "https://www.linkedin.com/in/somil-jain-540819327/",
+        "email": "somil16022006@gmail.com",
+        "image": "SomilPC.jpeg"
+      },
+      {
+        "name": "Tarun Talan",
+        "specialization": "Android Developer",
+        "branch": "CSE",
+        "skills": ["Kotlin", "Java"],
+        "github": "https://github.com/TarunTalan",
+        "linkedin": "https://www.linkedin.com/in/tarun-talan-77360a37a/",
+        "email": "taruntalan12@gmail.com",
+        "image": "TarunPC.png"
+      },
+      {
+        "name": "Tulika Mishra",
+        "specialization": "Android Developer",
+        "branch": "CSE",
+        "skills": ["CPP", "XML", "Kotlin"],
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/tulika-mishra-29540b333",
+        "email": "",
+        "image": "TulikaPC.jpg"
+      }
     ]
   }
 }

@@ -5,8 +5,6 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Footer from "./components/Footer";
 import Members from "./components/Members/Members";
-import Register from "./components/Register";
-import EventPopup from "./components/EventPopup";  // ADD THIS LINE
 import {
   BrowserRouter as Router,
   Route,
@@ -19,11 +17,11 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 1200);
 
     return () => clearTimeout(timer);
@@ -35,14 +33,16 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <ScrollToTop />
-        <EventPopup />  {/* ADD THIS LINE */}
+
+        {/* EventPopup REMOVED */}
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/members" element={<Members />} />
-          <Route path="/register" element={<Register />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
+
         <Footer />
       </div>
     </Router>

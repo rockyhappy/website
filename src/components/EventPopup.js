@@ -32,7 +32,7 @@ function EventPopup() {
       <Modal.Body>
         <div className="event-content">
           <h3>Programming Club Presents</h3>
-          <h2>Codecrunch</h2>
+          <h2>Code++</h2>
           <p className="event-details">
             Join us for an exciting competitive programming workshop where you can elevate your programming skills!
           </p>
